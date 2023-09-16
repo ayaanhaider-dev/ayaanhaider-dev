@@ -1,16 +1,25 @@
-### Hi there 👋
+## HALLO I'm Ayaan Haider 👋
 
-<!--
-**ayaanhaider-dev/ayaanhaider-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Fiverr As Freelancer .
+- 🌱 I’m currently learning Flutter.
+- 📫 How to reach me: ... [Email - ayaanhaider.dev@gmail.com]
+- ⚡ Fun fact: Traveller...
 
-Here are some ideas to get you started:
+## Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=ba000d)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=ba000d)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=ba000d)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=ba000d)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=ba000d)
+![](https://img.shields.io/badge/FreelanceProfile-Upwork-informational?style=flat&logo=upwork&logoColor=white&color=ba000d)
+![](https://img.shields.io/badge/FreelanceProfile-Fiverr-informational?style=flat&logo=fiverr&logoColor=white&color=ba000d)
+
+
+<a href="https://github.com/ayaanhaider-dev">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanhaider-dev&show_icons=true&theme=dark&line_height=27" alt="Ayaan's github stats"/>
+</a>
+
+
+
+</div>
