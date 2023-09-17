@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Fiverr As Freelancer .
 - 🌱 I’m currently learning Flutter.
 - 📫 How to reach me: ... [Email - ayaanhaider.dev@gmail.com]
-- ⚡ Fun fact: Traveller...
+- ⚡ Fun fact: Gamer...
 
 ## Technologies & Tools
 
