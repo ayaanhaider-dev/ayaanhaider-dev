@@ -1,4 +1,4 @@
-## HALLO I'm Ayaan Haider 👋
+## HELLO I'm Ayaan Haider 👋
 
 - 🔭 I’m currently working on Fiverr As Freelancer .
 - 🌱 I’m currently learning Flutter.
