@@ -1,7 +1,7 @@
 ## HELLO I'm Ayaan Haider 👋
 
 - 🔭 I’m currently working on Fiverr As Freelancer .
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Machine Learning.
 - 📫 How to reach me: ... [Email - ayaanhaider.dev@gmail.com]
 - ⚡ Fun fact: Gamer...
 
@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=ba000d)
 ![](https://img.shields.io/badge/FreelanceProfile-Upwork-informational?style=flat&logo=upwork&logoColor=white&color=ba000d)
 ![](https://img.shields.io/badge/FreelanceProfile-Fiverr-informational?style=flat&logo=fiverr&logoColor=white&color=ba000d)
-<img src="https://komarev.com/ghpvc/?username=ayaanhaider-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanhaider-dev" />
+<img src="https://komarev.com/ghpvc/?username=ayaanhaider-dev&label=Profile%20views&color=ba000d&style=flat" alt="ayaanhaider-dev" />
 
 <a href="https://github.com/ayaanhaider-dev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanhaider-dev&show_icons=true&theme=dark&line_height=27&color=ba000d" alt="Ayaan's github stats"/>
