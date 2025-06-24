@@ -90,7 +90,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayaanhaider-dev&show_icons=true&hide_border=true&theme=tokyonight&title_color=ba000d&icon_color=ba000d" />
+  <img src="https://github-readme-stats-orcin-sigma.vercel.app/api?username=ayaanhaider-dev&show_icons=true&hide_border=true&theme=tokyonight&title_color=ba000d&icon_color=ba000d&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayaanhaider-dev&theme=dark&hide_total_contributions=true" />
 </p>
 
 ---
@@ -104,5 +108,5 @@
 ---
 
 <p align="center">
-  Let’s build something awesome together 🚀
+  Let's build something awesome together 🚀
 </p>
